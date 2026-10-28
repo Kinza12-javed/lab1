@@ -12,3 +12,5 @@ public class Square {
         System.out.println("Square of 5 = " + obj.square(5));
     }
 }
+
+// This is Square Test
